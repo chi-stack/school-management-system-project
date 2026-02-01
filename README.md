@@ -36,7 +36,10 @@ Educational institutions need an efficient way to manage student records digital
 4. Run the application:
    ```
    python app.py
-   ```
+   ```PS C:\Users\PC\Desktop\PROJECT> start http://127.0.0.1:5000/
+PS C:\Users\PC\Desktop\PROJECT> 
+
+
 5. Open your web browser and go to `http://127.0.0.1:5000/`
 
 ## Login Credentials
