@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Student E-Records Management System
 
 ## Description
@@ -76,3 +77,6 @@ Feel free to fork this project and submit pull requests for improvements.
 
 ## License
 This project is open source and available under the MIT License.
+
+# school-management-system-project
+eb6a65c2df5e1af21656926ebd61203e88cb7c13
